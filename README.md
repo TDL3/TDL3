@@ -64,15 +64,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="TDL3's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TDL3&show_icons=true&hide_border=true" />
