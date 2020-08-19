@@ -53,10 +53,15 @@
 
 <br/><br/>
 
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 
+➡️ [More posts...](https://tdl3.xyz)
 
+---
 
 [website]: https://tdl3.xyz
 [twitter]: https://twitter.com/_jackpeng
