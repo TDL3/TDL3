@@ -72,6 +72,13 @@
 
 </details>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="TDL3's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TDL3&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://tdl3.xyz
 [twitter]: https://twitter.com/_jackpeng
 [youtube]: https://www.youtube.com/channel/UCE-vzm1WCE7C-zKCP4ZCrHA
