@@ -63,6 +63,15 @@
 
 ---
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 [website]: https://tdl3.xyz
 [twitter]: https://twitter.com/_jackpeng
 [youtube]: https://www.youtube.com/channel/UCE-vzm1WCE7C-zKCP4ZCrHA
