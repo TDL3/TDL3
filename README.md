@@ -1,4 +1,4 @@
-### Hi there, I'm jack aka TDL3 👋
+### Hi there, I'm Jack aka TDL3 👋
 
 [![Website](https://img.shields.io/website?label=tdl3.xyz&style=for-the-badge&url=https%3A%2F%2Ftdl3.xyz)](https://tdl3.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)
