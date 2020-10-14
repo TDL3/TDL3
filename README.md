@@ -6,9 +6,9 @@
 ### I'm a collage student who's passionate about in computers in general
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning JavaScript/TypeScript/Deno
-- 👯 I’m looking to collaborate on server automation
-- 🤔 I’m looking for help with everything
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on CI/CD
+- 🤔 I’m looking for help with GitHub Actions
 - 📫 How to reach me: admin@tdl3.xyz
 - ⚡ Fun fact: There is no escape from the enemy who lives within
 
