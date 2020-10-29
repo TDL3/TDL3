@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=tdl3.xyz&style=for-the-badge&url=https%3A%2F%2Ftdl3.xyz)](https://tdl3.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-### I'm a collage student who's passionate about in computers in general
+### I'm a collage student who's passionate about computer science.
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Go
