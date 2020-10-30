@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack aka TDL3 👋
 
-[![Website](https://img.shields.io/website?label=tdl3.xyz&style=for-the-badge&url=https%3A%2F%2Ftdl3.xyz)](https://tdl3.xyz)
+[![Website](https://img.shields.io/website?label=tdl3.com&style=for-the-badge&url=https%3A%2F%2Ftdl3.com)](https://tdl3.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ### I'm a collage student who's passionate about computer science.
@@ -9,12 +9,12 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on CI/CD
 - 🤔 I’m looking for help with GitHub Actions
-- 📫 How to reach me: admin@tdl3.xyz
+- 📫 How to reach me: admin@tdl3.com
 - ⚡ Fun fact: There is no escape from the enemy who lives within
 
 ### Reach me
 
-[<img align="left" alt="tdl3.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tdl3.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="TDL3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
@@ -56,10 +56,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to manaully update GeoIP database in Clash for Windows?](https://blog.tdl3.xyz/2020/07/how-to-manaully-update-geoip-database.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More posts...](https://blog.tdl3.xyz)
+➡️ [More posts...](https://blog.tdl3.com)
 
 ---
 
@@ -70,7 +69,7 @@
 
 </details>
 
-[website]: https://tdl3.xyz
+[website]: https://tdl3.com
 [twitter]: https://twitter.com/_jackpeng
 [youtube]: https://www.youtube.com/channel/UCE-vzm1WCE7C-zKCP4ZCrHA
 [weibo]: https://weibo.com/JackSimpkins
