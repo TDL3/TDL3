@@ -1,7 +1,7 @@
 ### Hi there, I'm Jack aka TDL3 👋
 
 [![Website](https://img.shields.io/website?label=tdl3.com&style=for-the-badge&url=https%3A%2F%2Ftdl3.com)](https://tdl3.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tdlthree?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ### I'm a collage student who's passionate about computer science.
 
