@@ -42,7 +42,7 @@
 
 [<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/29535697/90622657-02c1cf00-e248-11ea-9b33-db77d2bd81fd.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://www.javascript.com/)
+[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [<img align="buttom" alt="GO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />](https://golang.org/)
 
