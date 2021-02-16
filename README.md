@@ -1,7 +1,8 @@
 ### Hi there, I'm Jack aka TDL3 👋
 
-[![Website](https://img.shields.io/website?label=tdl3.com&style=for-the-badge&url=https%3A%2F%2Ftdl3.com)](https://tdl3.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tdlthree?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/_jackpeng?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=tdl3.com&style=flat&url=https://tdl3.com)](https://tdl3.com)
+![](https://img.shields.io/mozilla-observatory/grade/tdl3.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tdlthree?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/TDLTHREE)
 
 ### I'm a collage student who's passionate about computer science.
 
@@ -18,9 +19,9 @@
 
 [<img align="left" alt="Jack Peng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="风舞林C | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/sinaweibo.svg" />][weibo]
+[<img align="left" alt="风舞林C | 新浪微博" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/sinaweibo.svg" />][weibo]
 
-[<img align="left" alt="TDL3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="TDL3 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" />][twitch]
 
 
 <br/>
@@ -66,7 +67,7 @@
 </details>
 
 [website]: https://tdl3.com
-[twitter]: https://twitter.com/_jackpeng
+[twitter]: https://twitter.com/TDLTHREE
 [youtube]: https://www.youtube.com/channel/UCE-vzm1WCE7C-zKCP4ZCrHA
 [weibo]: https://weibo.com/JackSimpkins
 [twitch]: https://www.twitch.tv/TDL3
