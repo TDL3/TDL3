@@ -34,7 +34,6 @@
 
 [<img align="left" alt="Deno" width="26px" src="https://user-images.githubusercontent.com/29535697/90622959-6e0ba100-e248-11ea-93f2-e11d4d863fb8.png" />](https://deno.land/)
 
-
 [<img align="left" alt="MariaDB" width="26px" src="https://user-images.githubusercontent.com/29535697/90621563-78c53680-e246-11ea-82f6-e98169a17981.png" />](https://mariadb.org/)
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />](https://www.python.org/)
@@ -44,10 +43,6 @@
 [<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/29535697/90622657-02c1cf00-e248-11ea-9b33-db77d2bd81fd.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://www.javascript.com/)
-
-
-[<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />](https://www.typescriptlang.org/)
-
 
 <br/><br/>
 
