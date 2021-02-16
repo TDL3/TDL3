@@ -44,7 +44,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://www.javascript.com/)
 
-[<img align="left" alt="Go" width="26px" src="hhttps://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />](https://golang.org/)
+[<img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />](https://golang.org/)
 
 <br/><br/>
 
