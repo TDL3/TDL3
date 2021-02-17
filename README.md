@@ -1,8 +1,9 @@
 ### Hi there, I'm Jack aka TDL3 👋
 
 [![Website](https://img.shields.io/website?label=tdl3.com&style=flat&url=https://tdl3.com)](https://tdl3.com)
-![](https://img.shields.io/mozilla-observatory/grade/tdl3.com)
+![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/tdl3.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tdlthree?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/TDLTHREE)
+[![Twitter Follow](https://img.shields.io/badge/gist-ok-informational)](https://gist.github.com/TDL3)
 
 ### I'm a collage student who's passionate about computer science.
 
