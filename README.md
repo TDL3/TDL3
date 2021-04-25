@@ -32,7 +32,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://code.visualstudio.com/)
 
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="(https://user-images.githubusercontent.com/29535697/115981769-cad60d00-a5c8-11eb-8a65-e6ccef626429.png" />](https://www.jetbrains.com/)
+[<img align="left" alt="JetBrains IDEs" width="26px" src="https://user-images.githubusercontent.com/29535697/115981769-cad60d00-a5c8-11eb-8a65-e6ccef626429.png" />](https://www.jetbrains.com/)
 
 [<img align="left" alt="Deno" width="26px" src="https://user-images.githubusercontent.com/29535697/90622959-6e0ba100-e248-11ea-93f2-e11d4d863fb8.png" />](https://deno.land/)
 
