@@ -53,7 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to manaully update GeoIP database in Clash for Windows?](https://tdlthree.blogspot.com/2020/07/how-to-manaully-update-geoip-database.html)
+- [How to Update GeoIP Database for Clash-for-Windows Manually](https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts...](https://blog.tdl3.com)
